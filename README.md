@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/hQFf1yD.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -20,16 +20,16 @@
 
 ---
 
-<!-- ─────────────────────────────── ABOUT ME ─────────────────────────────── -->
+<!-- ─────────────────────────────── ABOUT ─────────────────────────────── -->
 
 ## 🚀 About Me
 
 ✨ I'm *Ahmed, a passionate **Flutter Developer*  
 🐧 Daily *Linux* user (Ubuntu / Arch / Debian)  
-🎨 I build *beautiful* and *smooth* mobile apps  
-⚡ Love animations, UI/UX, clean code, and mobile design  
-📚 Always learning *state management*, API integration, and advanced Flutter  
-🧠 Extra skills: *Python, C++, HTML, CSS, JavaScript*
+🎨 I build *smooth & beautiful mobile apps*  
+⚡ Love animations, clean UI, and modern mobile design  
+📚 Always learning *State Management, **API integration, **Dart architecture*  
+🧠 Extra: *Python, **C++, **HTML, **CSS, **JavaScript*
 
 ---
 
@@ -43,17 +43,17 @@
 
 ---
 
-<!-- ─────────────────────────────── ANIMATED SKILLS ─────────────────────────────── -->
+<!-- ─────────────────────────────── ANIMATED TECH ─────────────────────────────── -->
 
-## 🎯 Animated Skills Showcase
+## 🎯 Animated Tech Showcase
 
 <p align="center">
-  <img src="https://i.imgur.com/2Q6YVtY.gif" width="500">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300">
 </p>
 
 ---
 
-<!-- ─────────────────────────────── GITHUB STATS ─────────────────────────────── -->
+<!-- ─────────────────────────────── STATS ─────────────────────────────── -->
 
 ## 📊 GitHub Stats
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Top Languages
+## 📈 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" />
@@ -75,7 +75,7 @@
 <!-- ─────────────────────────────── ANIMATED DIVIDER ─────────────────────────────── -->
 
 <p align="center">
-  <img src="https://i.imgur.com/AZ4B0eW.gif" width="500">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500">
 </p>
 
 ---
@@ -90,6 +90,7 @@
   <a href="https://wa.me/212603809908">
     <img src="https://img.shields.io/badge/WhatsApp-0603809908-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
   <br><br>
-  <strong style="font-size:18px;">Always open to new ideas and collaborations! 🚀</strong>
+  <strong style="font-size:18px;">Always open for collaborations & new ideas! 🚀</strong>
 </p>
