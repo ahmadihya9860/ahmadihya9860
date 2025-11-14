@@ -1,75 +1,95 @@
-<!-- ──────────────────────────────── HEADER ──────────────────────────────── -->
+<!-- ─────────────────────────────── HEADER ─────────────────────────────── -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4FC3F7;">Ahmed</span></h1>
-<h3 align="center">Flutter Developer • Mobile Enthusiast • Linux User</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hey+I'm+Ahmed!;Flutter+Developer;Linux+User;Mobile+App+Builder;Welcome+To+My+Profile!">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+App+Builder;Linux+Lover;Clean+Code+Enthusiast;Always+Learning+New+Things..." />
+  <img src="https://i.imgur.com/hQFf1yD.gif" width="400"/>
 </p>
 
-<!-- ──────────────────────────────── BADGES ──────────────────────────────── -->
-
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=black" />
+  <a href="https://www.instagram.com/Ihya9860">
+    <img src="https://img.shields.io/badge/Instagram-Ihya9860-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://wa.me/212603809908">
+    <img src="https://img.shields.io/badge/WhatsApp-0603809908-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=lightgrey" />
 </p>
 
 ---
 
-<!-- ──────────────────────────────── ABOUT ME ──────────────────────────────── -->
+<!-- ─────────────────────────────── ABOUT ME ─────────────────────────────── -->
 
 ## 🚀 About Me
 
-- 📱 Flutter developer focused on *beautiful, fast, and scalable apps*  
-- 🐧 Daily Linux user (Ubuntu / Debian / Arch)  
-- 💡 Passionate about UI/UX, mobile animations & clean architecture  
-- 🌱 Currently learning advanced *Dart, **State Management*, and backend (REST APIs)  
-- 💻 I also code in *Python, **C++, **HTML, **CSS, **JavaScript*  
-- 🎯 Goal: Become a top-tier mobile app developer  
+✨ I'm *Ahmed, a passionate **Flutter Developer*  
+🐧 Daily *Linux* user (Ubuntu / Arch / Debian)  
+🎨 I build *beautiful* and *smooth* mobile apps  
+⚡ Love animations, UI/UX, clean code, and mobile design  
+📚 Always learning *state management*, API integration, and advanced Flutter  
+🧠 Extra skills: *Python, C++, HTML, CSS, JavaScript*
 
 ---
 
-<!-- ──────────────────────────────── TECH STACK ──────────────────────────────── -->
+<!-- ─────────────────────────────── TECH STACK ─────────────────────────────── -->
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,python,cpp,html,css,js,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,python,cpp,html,css,js,vscode,git,github,ubuntu" />
 </p>
 
 ---
 
-<!-- ──────────────────────────────── STATS ──────────────────────────────── -->
+<!-- ─────────────────────────────── ANIMATED SKILLS ─────────────────────────────── -->
+
+## 🎯 Animated Skills Showcase
+
+<p align="center">
+  <img src="https://i.imgur.com/2Q6YVtY.gif" width="500">
+</p>
+
+---
+
+<!-- ─────────────────────────────── GITHUB STATS ─────────────────────────────── -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=000000" height="170"/>
 </p>
 
 ---
 
-## 🎨 Top Languages
+## 🌐 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" />
 </p>
 
 ---
 
-<!-- ─────────────────────────────── CONTACT ─────────────────────────────── -->
-
-## 📫 Contact Me
+<!-- ─────────────────────────────── ANIMATED DIVIDER ─────────────────────────────── -->
 
 <p align="center">
-  <a href="https://www.instagram.com/your-instagram/">
-    <img src="https://img.shields.io/badge/DM%20Me%20On%20Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://i.imgur.com/AZ4B0eW.gif" width="500">
+</p>
+
+---
+
+## 📞 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/ihya9860">
+    <img src="https://img.shields.io/badge/Instagram-Ihya9860-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br><br>
-  <strong>Always open for collaborations & new ideas! 🚀</strong>
+  <a href="https://wa.me/212603809908">
+    <img src="https://img.shields.io/badge/WhatsApp-0603809908-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <br><br>
+  <strong style="font-size:18px;">Always open to new ideas and collaborations! 🚀</strong>
 </p>
