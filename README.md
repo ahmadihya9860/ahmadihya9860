@@ -1,129 +1,75 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<!-- ──────────────────────────────── HEADER ──────────────────────────────── -->
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+<h1 align="center">👋 Hey, I'm <span style="color:#4FC3F7;">Ahmed</span></h1>
+<h3 align="center">Flutter Developer • Mobile Enthusiast • Linux User</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+App+Builder;Linux+Lover;Clean+Code+Enthusiast;Always+Learning+New+Things..." />
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<!-- ──────────────────────────────── BADGES ──────────────────────────────── -->
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=black" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=lightgrey" />
+</p>
 
-<br>
+---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<!-- ──────────────────────────────── ABOUT ME ──────────────────────────────── -->
 
-> Tools, languages, and other things that I like to work with.
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
+- 📱 Flutter developer focused on *beautiful, fast, and scalable apps*  
+- 🐧 Daily Linux user (Ubuntu / Debian / Arch)  
+- 💡 Passionate about UI/UX, mobile animations & clean architecture  
+- 🌱 Currently learning advanced *Dart, **State Management*, and backend (REST APIs)  
+- 💻 I also code in *Python, **C++, **HTML, **CSS, **JavaScript*  
+- 🎯 Goal: Become a top-tier mobile app developer  
 
-<h2 align="left">Coding Activity</h2>
+---
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<!-- ──────────────────────────────── TECH STACK ──────────────────────────────── -->
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+## 🛠️ Tech Stack
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,python,cpp,html,css,js,vscode,git,github" />
+</p>
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+---
 
-<!-- links -->
+<!-- ──────────────────────────────── STATS ──────────────────────────────── -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=000000" height="165"/>
+</p>
+
+---
+
+## 🎨 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=000000&hide_border=true" />
+</p>
+
+---
+
+<!-- ─────────────────────────────── CONTACT ─────────────────────────────── -->
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/your-instagram/">
+    <img src="https://img.shields.io/badge/DM%20Me%20On%20Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br><br>
+  <strong>Always open for collaborations & new ideas! 🚀</strong>
+</p>
